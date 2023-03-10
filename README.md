@@ -12,7 +12,7 @@ Algoritma yang digunakan adalah Linear Search. Linear Search merupakan metode pe
 # Fungsionalitas Program:
 Fungsionalitas program adalah untuk mengindentifikasi posisi elemen pada array dengan menerapkan metode Linear Search.
 
-#Elemen yang digunakan:
+# Elemen yang digunakan:
 Elemen yang digunakan diantaranya adalah
 1. def : untuk mendefinisikan program yang berisi kumpulan perintah atau baris kode yang dikelompokkan menjadi satu kesatuan dan bisa dipanggil berkali-kali.
 2. for : untuk melakukan looping
