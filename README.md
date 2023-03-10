@@ -6,11 +6,11 @@
 4. Jika input yang dimasukkan berupa elemen dalam list, program juga akan melakukan perulangan untuk mencari posisi elemen tersebut.
 5. Jika elemen yang dimasukkan tidak ada dalam array maka akan dijalankan perintah dalam else
 
-# Algoritma yang digunakan:
-Algoritma yang digunakan adalah Linear Search. Linear Search merupakan metode pencarian data dengan memeriksa setiap elemen satu per satu hingga ditemukan sebuah kecocokan.
-
 # Fungsionalitas Program:
 Fungsionalitas program adalah untuk mengindentifikasi posisi elemen pada array dengan menerapkan metode Linear Search.
+
+# Algoritma yang digunakan:
+Algoritma yang digunakan adalah Linear Search. Linear Search merupakan metode pencarian data dengan memeriksa setiap elemen satu per satu hingga ditemukan sebuah kecocokan.
 
 # Elemen yang digunakan:
 Elemen yang digunakan diantaranya adalah sebagai berikut.
